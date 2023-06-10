@@ -1,6 +1,6 @@
 # Stochastic Graphical Bandits with Heavy-Tailed Rewards
 
-This repository is the official implement of Stochastic Graphical Bandits with Heavy-Tailed Rewards.
+This repository is the official implement of Stochastic Graphical Bandits with Heavy-Tailed Rewards (UAI 2023).
 
 ## Instructions
 
