@@ -17,3 +17,8 @@ This repository is the official implement of Stochastic Graphical Bandits with H
 - feedback_graph.py -> class of feedback graph, including class `FeedbackGraph`.
 - UCB.py -> implements of two UCB-type algorithms, including our methods RUNE-TEM, RUNE-MoM and UCB-N in "Stéphane Caron, Branislav Kveton, Marc Lelarge, and Smriti Bhagat. Leveraging side observations in stochastic bandits. In Proceedings of the 28th Conference on Uncertainty in Artificial Intelligence, page 142–151, 2012.".
 - AAE.py -> implements of two elimination-based algorithms, including our methods RAAE-TEM, RAAE-MoM and AAE-AlphaSample in "Alon Cohen, Tamir Hazan, and Tomer Koren. Online learning with feedback graphs without the graphs. In Proceedings of the 33rd International Conference on Machine Learning, pages 811–819, 2016.".
+
+## Contact
+Yutian Gou - gouyt@lamda.nju.edu.cn
+
+If you find any bugs or have any question, please contact me.
